@@ -1,4 +1,4 @@
-GIT revert change 2
+This is sample file 1
 
 Testing reset Commit 1
 
